@@ -70,7 +70,7 @@ Follow these steps to get started with The Wild Oasis:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mikimog/the-wild-oasis.git
+git clone https://github.com/mikimoges/the-wil-oasis.git
 cd the-wild-oasis
 npm install
 # Set Up Supabase
