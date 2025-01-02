@@ -70,14 +70,11 @@ Follow these steps to get started with The Wild Oasis:
 ### 1. Clone the Repository
 
 ```bash
-<<<<<<< HEAD
+
 # clone the repository
-git clone https://github.com/mikimoges/the-wil-oasis.git
+git clone https://github.com/mikimoges/the-wild-oasis.git
 
 # move to the "the-wild-oasis" directory
-=======
-git clone https://github.com/mikimoges/the-wil-oasis.git
->>>>>>> 6a307fab680be507d4ea55c21dcf778460b5f0e0
 cd the-wild-oasis
 
 # install all the necessary packages
