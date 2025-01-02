@@ -70,9 +70,15 @@ Follow these steps to get started with The Wild Oasis:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mikimog/the-wild-oasis.git
+# clone the repository
+git clone https://github.com/mikimoges/the-wil-oasis.git
+
+# move to the "the-wild-oasis" directory
 cd the-wild-oasis
+
+# install all the necessary packages
 npm install
+
 # Set Up Supabase
 REACT_APP_SUPABASE_URL=your-supabase-url
 REACT_APP_SUPABASE_KEY=your-supabase-key
@@ -82,6 +88,26 @@ npm run dev
 
 
 ```
+
+## 📸 Screenshots
+
+### Dashboard
+
+#### Dark mode
+
+![Dashboard Overview](/public/screenshots/dashboard-dark.png)
+
+#### Light mode
+
+![Dashboard Overview](/public/screenshots/dashboard-light.png)
+
+### Cabin Management
+
+![Cabin Management Page](/public/screenshots/cabin-management.png)
+
+### Booking Management
+
+![Booking Management Page](/public/screenshots/booking-management.png)
 
 ## 📬 Contact
 
