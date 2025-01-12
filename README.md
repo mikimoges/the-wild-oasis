@@ -1,3 +1,4 @@
+demo:- https://the-wild-oasis-app-mimo.netlify.app/
 # 🌴 The Wild Oasis - Hotel Management Application
 
 The Wild Oasis is a **full-stack hotel management application** designed to simplify and enhance hotel operations. With an intuitive interface and powerful features, hotel staff and management can efficiently handle tasks like managing cabins, bookings, users, app settings, and more. This app is built to improve productivity and provide a seamless experience for hoteliers.
